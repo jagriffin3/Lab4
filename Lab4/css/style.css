@@ -1,0 +1,45 @@
+navbar-default {
+  background-color: #CECA90;
+  border-radius: 0;
+  background-image: none;
+}
+/* Navbar title */
+navbar-default navbar-brand {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+
+
+<style>
+body {
+  background-image: url("../images/compass.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  }
+</style> 
+h1 {
+color: #0433CE; /* assigns a color value to the h1 element */
+font-size: 30px; /* assigns the type size for the heading */	
+}
+h2 {
+color: #2e6c80; /* assigns a color value to the h1 element */
+font-size: 30px; /* assigns the type size for the heading */	
+}
+jumbotron {
+  background-image: url("../images/ships.jpg");
+  text-align: center;
+  color: #fff;
+  padding: 2%;
+}
+
+jumbotron h2 {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+body {
+  padding-top: 50px;
+  font-family: 'Georgia', serif;
+  background-color: #f7f1fa;
+  color: #242424;
